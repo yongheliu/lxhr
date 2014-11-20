@@ -1,0 +1,6 @@
+.butn-add{background-image:url(images/add.png)}
+.butn-edit{background-image:url(images/cog_edit.png)}
+.butn-del{background-image:url(images/delete.gif)}
+.butn-eye{background-image:url(images/eye.png)}
+.butn-query{background-image:url(images/query.png)}
+.butn-table-refresh{background-image:url(images/table_refresh.png)}
